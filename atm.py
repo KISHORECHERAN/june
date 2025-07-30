@@ -134,6 +134,7 @@ def main():
            # Any other choice
             else:
                 print("\nThat's an invalid choice.")
+                PRINT('THIS NOT A VALID")
                 #break;
 # call main
 main()
